@@ -1,0 +1,16 @@
+POSITIVE This is Not a terrible sentence!
+
+
+POSITIVE I'm doing amazing!
+
+
+NEGATIVE I have some not so good news!
+
+
+NEGATIVE I'm so unhappy upset upset sad this isn't funny
+
+
+POSITIVE I'm too happy
+
+
+POSITIVE this news is not a not so good news
